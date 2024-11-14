@@ -1,5 +1,5 @@
 # Taxiq Notion Pages to transfer
-The Pages as Listed below have been transferred to the Shared Drive [H:/taxiq](H:/taxiq)
+The Pages as Listed below have been transferred to the Shared Drive [H:/taxiq](file:///H:/taxiq/)
 
 - [ ] General
   - [x] brantpoint
