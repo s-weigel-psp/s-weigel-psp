@@ -1,0 +1,54 @@
+# Taxiq Notion Pages to transfer
+
+- [ ] General
+  - [x] brantpoint
+    - [x] Projects
+    - [x] Tasks
+    - [x] People
+    - [x] Job descriptions
+    - [x] Departments
+    - [x] Roles
+    - [x] Software in use by brantpoint
+    - [x] Documents (All Docs)
+      - [x] Berechtigungskonzept TaxIQ
+      - [x] Betriebsdokumentation TaxIQ
+      - [x] Systemdokumentation TaxIQ
+      - [x] Keycloak SSO Implementation Setup
+      - [x] GCP Setup
+      - [x] Google Cloud TaxIQ Project Setup
+      - [x] TaxIQ Development: Procedure for new features / changes
+      - [x] TaxIQ Umgebungen (Test / Staging / Production)
+      - [x] Logging / archiving of security-relevant events
+      - [x] TaxIQ: Regular security scans
+      - [x] Information Security
+      - [x] Übergabe JHA
+      - [x] Terraform Infrastructure for TaxIQ
+      - [x] TaxIQ über Kubernetes aufsetzen/verwalten (Google Cloud)
+      - [x] Anwendungsarchitektur TaxIQ
+      - [x] Keycloak and TaxIQ
+      - [x] Videos zur Einarbeitung in brantpoint/TaxIQ
+      - [x] Zwei-Faktor in Google Workspace
+      - [x] Struktur der TaxIQ Kubernetes Konfigurationsdateien
+    - [x] Meeting Notes
+    - [x] Prozesse/Workflows
+    - [x] Customers
+  - [x] Compliance ???
+  - [x] IT Management
+    - [x] Infrastruktur brantpoint
+    - [x] Infrastruktur Website von brantpoint
+  - [x] Produkt TaxIQ
+    - [x] Infrastruktur TaxIQ
+    - [x] Ideation
+    - [x] Features / Changes
+  - [x] Customer Success
+    - [x] Unbenannt (Tabelle ohne Inhalt)
+  - [x] Marketing
+  - [ ] Sales
+    - [ ] Templates (No Templates listed but one in the file system)
+    - [x] Material
+    - [x] Pipeline
+  - [ ] HR
+    - [ ] Onboarding (No Items)
+    - [ ] Offboarding (No Items)
+  - [x] Finanzen
+    - [x] Rechnungen 
